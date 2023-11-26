@@ -1,0 +1,9 @@
+!!! Welcome to my expense tracker program !!!
+In this project, I have three files, main.py, login.py, and program.py
+
+    1. main.py : contain all of the logic and code for the expense tracker program
+    2. login.py : contain the logic for login page and when successfully login, it 
+    will navigate to main.y
+    3. program.py: contain the code to run the entire program by importing the login.py module
+
+To run the program, please run on the program.py file.
